@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pawan havin more than 18 years of  experience in wholesale banking and currently working as Lead Change Analyst
+- 👋 Hi, I’m Pawan having more than 18 years of  experience in wholesale banking and currently working as Lead Change Analyst
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently pursuing Post Graduate Diploma in Artifical intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML projects in banking domain
