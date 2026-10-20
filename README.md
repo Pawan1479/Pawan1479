@@ -38,7 +38,7 @@ I'm a **VP, Tech Delivery Manager** with **20+ years** in **corporate and wholes
 | | |
 |---|---|
 | 🎓 **Executive PG Programme in Artificial Intelligence & Machine Learning** | IIIT Bangalore |
-| 🎓 **Bachelor of Engineering, Computer Science & Engineering** | |
+| 🎓 **Bachelor of Engineering, Computer Science & Engineering** | Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur |
 | 🏅 **SAFe® POPM** (Product Owner / Product Manager) | Scaled Agile |
 | 🏅 **RAG (Retrieval-Augmented Generation)** | IBM |
 
