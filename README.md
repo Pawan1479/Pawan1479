@@ -4,7 +4,7 @@
 
 ### Technology Product Manager & Delivery Leader · Corporate Banking · AI/ML
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=VP+-+Tech+Delivery+Manager;Techno-functional+Business+Analyst;Payments+%7C+Trade+Finance+%7C+Treasury+%7C+Lending;Building+with+LLMs%2C+RAG+%26+MCP)](https://github.com/Pawan1479)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=VP+-+Tech+Delivery+Manager;Techno-functional+Business+Analyst;Oracle+FLEXCUBE+Core+Banking+Implementations;NEFT%2FRTGS+24x7+%7C+ISO+20022+CBPR%2B;Payments+%7C+Trade+Finance+%7C+Treasury+%7C+Lending;Building+with+LLMs%2C+RAG+%26+MCP)](https://github.com/Pawan1479)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pawan--singh1479-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-singh1479/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawankumar.singh@gmail.com)
@@ -20,6 +20,8 @@ I'm a **VP, Tech Delivery Manager** with **20+ years** in **corporate and wholes
 
 - 🎯 **Product:** turning complex banking needs into clear product visions, roadmaps and backlogs
 - 🚚 **Delivery:** leading cross-functional teams on large banking programs with SAFe and Agile
+- 🏗️ **Core banking:** led **multiple Oracle FLEXCUBE implementation sites** from requirements to go-live
+- 🌐 **Industry programs:** led work on industry-defining changes such as **NEFT & RTGS 24x7**, **ISO 20022 CBPR+** and **SWIFT India**
 - 🔍 **Analysis:** bridging business, operations and engineering with deep domain knowledge
 - 🤖 **AI:** applying **AI/ML, RAG and LLMs** to banking problems
 
@@ -32,6 +34,23 @@ I'm a **VP, Tech Delivery Manager** with **20+ years** in **corporate and wholes
 | 📈 | **Treasury** | Treasury products and operations |
 | 🏛️ | **Lending** | Corporate lending and the loan lifecycle |
 | 🏧 | **DDA** | Demand deposit accounts, account services and liquidity |
+
+## 🏗️ Core banking implementation
+
+**Oracle FLEXCUBE**: I have led **multiple implementation sites** end to end, covering requirements, solution design, configuration, testing, data migration support, cutover and go-live.
+
+## 🌟 Key industry programs
+
+Programs I have worked on and led that reshaped how banks operate:
+
+| Program | Area | What it involved |
+|---|---|---|
+| ⏱️ **NEFT & RTGS 24x7** | Payments · India | Moving India's national payment systems to round-the-clock operation |
+| 🌍 **ISO 20022 migration (CBPR+)** | Cross-border payments | Migrating cross-border payment messaging from SWIFT MT to ISO 20022 MX under CBPR+ |
+| 📜 **SWIFT Trade Standards Release 2020** | Trade Finance | Implementing the SWIFT 2020 changes to trade finance messages |
+| 💳 **Interchange Fee Regulation (IFR)** | Cards · Visa | Regulatory changes to interchange fees for Visa cards |
+| 🔗 **SWIFT India network** | Payments · India | Implementing connectivity to the SWIFT India domestic messaging network |
+| 🧾 **Electronic Bank Guarantees via NeSL** | Trade Finance · India | Digital issuance of bank guarantees through National E-Governance Services Ltd (NeSL) |
 
 ## 🎓 Education & certifications
 
@@ -63,6 +82,14 @@ I'm a **VP, Tech Delivery Manager** with **20+ years** in **corporate and wholes
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-8957E5?style=flat-square)
 ![Business Analysis](https://img.shields.io/badge/Techno--functional%20BA-BF8700?style=flat-square)
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-CF222E?style=flat-square)
+
+**Banking platforms & standards**
+
+![Oracle FLEXCUBE](https://img.shields.io/badge/Oracle%20FLEXCUBE-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SWIFT](https://img.shields.io/badge/SWIFT-MT%20%2F%20MX-1C3F94?style=flat-square)
+![ISO 20022](https://img.shields.io/badge/ISO%2020022-CBPR%2B-0B5CAB?style=flat-square)
+![NEFT RTGS](https://img.shields.io/badge/NEFT%20%2F%20RTGS-24x7-238636?style=flat-square)
+![Regulatory](https://img.shields.io/badge/Regulatory%20Change-BF8700?style=flat-square)
 
 **AI / ML**
 
