@@ -16,7 +16,7 @@
 
 ## 🧑‍💼 About me
 
-I'm a **VP, Tech Delivery Manager** with **18+ years** in **corporate and wholesale banking technology**. I work where business and technology meet: I shape products as a **technology product manager**, analyze them in depth as a **techno-functional business analyst**, and lead **delivery** through to production.
+I'm a **VP, Tech Delivery Manager** with **20+ years** in **corporate and wholesale banking technology**. I work where business and technology meet: I shape products as a **technology product manager**, analyze them in depth as a **techno-functional business analyst**, and lead **delivery** through to production.
 
 - 🎯 **Product:** turning complex banking needs into clear product visions, roadmaps and backlogs
 - 🚚 **Delivery:** leading cross-functional teams on large banking programs with SAFe and Agile
