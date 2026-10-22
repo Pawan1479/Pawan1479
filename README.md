@@ -142,4 +142,6 @@ Follow along in [**ai-cloud-learning**](https://github.com/Pawan1479/ai-cloud-le
 
 [LinkedIn](https://www.linkedin.com/in/pawan-singh1479/) · [Email](mailto:pawankumar.singh@gmail.com)
 
+<sub>Personal projects built in my own time. Views are my own. No employer data, code or confidential information is used; all datasets are public or synthetic.</sub>
+
 </div>
