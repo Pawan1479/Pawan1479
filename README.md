@@ -63,10 +63,21 @@ Programs I have worked on and led that reshaped how banks operate:
 
 ## 🚀 Featured projects
 
+### ☁️🤖 AI & Cloud engineering
+
+Hands-on projects with LLMs, MCP, agents and cloud, built in the open.
+
 | Project | What it is | Tech |
 |---|---|---|
 | ☁️🤖 [**ai-cloud-learning**](https://github.com/Pawan1479/ai-cloud-learning) | My AI engineering and cloud learning lab, starting with an **LLM Router MCP server** that sends prompts to Claude, Gemini or local Ollama models | Python · MCP · Claude · Gemini · Ollama |
-| 📄 [**documentation-generator**](https://github.com/Pawan1479/documentation-generator) | A universal documentation generator for code repositories | Generative AI |
+| 🏦 *Coming soon* | Banking + AI projects: ISO 20022 payments, trade finance and credit risk | Python · LLMs · RAG · Agents |
+
+### 🎓 Coursework: Executive PG Programme in AI & ML (IIIT Bangalore)
+
+Machine learning and deep learning case studies completed during the programme.
+
+| Project | What it is | Tech |
+|---|---|---|
 | 💳 [**Lending Club Case Study**](https://github.com/Pawan1479/Lending_club_repository) | EDA on consumer-lending data to improve credit appraisal and reduce loan defaults | Python · Pandas · EDA |
 | 🩺 [**Melanoma Detection**](https://github.com/Pawan1479/Melanoma-Detection-Assignment) | CNN model that detects melanoma from skin images | Deep learning · CNN |
 | 🏠 [**Housing Price Prediction**](https://github.com/Pawan1479/Advance_linear_regression_housing_project) | Regularized regression to predict house prices for investment decisions | Python · scikit-learn |
